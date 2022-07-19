@@ -1,0 +1,1413 @@
+--0
+INSERT INTO racers VALUES(
+    'Овсянников',
+    'Иван',
+    'Николаевич',
+    345,
+    2,
+    to_date('10-7-2010', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Баранова',
+    'Ксения',
+    'Артёмовна',
+    654,
+    4,
+    to_date('10-4-2005', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Гордеева',
+    'Виктория',
+    'Марковна',
+    657,
+    7,
+    to_date('10-3-1987', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Ковалев',
+    'Денис',
+    'Борисович',
+    455,
+    2,
+    to_date('10-7-2010', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Лукина',
+    'Виктория',
+    'Артёмовна',
+    435,
+    3,
+    to_date('23-3-1999', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Кузнецова',
+    'Мария',
+    'Станиславовна',
+    271,
+    6,
+    to_date('9-7-2010', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Исаев',
+    'Александр',
+    'Юрьевич',
+    236,
+    5,
+    to_date('9-11-2001', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Плотникова',
+    'Анна',
+    'Эминовна',
+    692,
+    2,
+    to_date('9-7-2009', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Егоров',
+    'Александр',
+    'Фёдорович',
+    792,
+    2,
+    to_date('17-7-1989', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Кузнецов',
+    'Тимофей',
+    'Артёмович',
+    703,
+    2,
+    to_date('9-7-2009', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Третьякова',
+    'Алисия',
+    'Ивановна',
+    892,
+    5,
+    to_date('9-3-2011', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Виноградов',
+    'Марсель',
+    'Сергеевич',
+    165,
+    3,
+    to_date('9-1-2011', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Седов',
+    'Марк',
+    'Даниилович',
+    12,
+    5,
+    to_date('3-7-2001', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Максимова',
+    'Зоя',
+    'Эминовна',
+    622,
+    6,
+    to_date('4-8-2006', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Щукина',
+    'Амина',
+    'Ивановна',
+    629,
+    2,
+    to_date('7-2-2001', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Комарова',
+    'Амина',
+    'Данииловна',
+    502,
+    1,
+    to_date('3-2-2004', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Данилова',
+    'Александра',
+    'Матвеевна',
+    693,
+    2,
+    to_date('4-7-2001', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Королев',
+    'Андрей',
+    'Егорович',
+    612,
+    4,
+    to_date('2-4-2013', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Волкова',
+    'Полина',
+    'Эмильевна',
+    615,
+    6,
+    to_date('5-7-2008', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Пименов',
+    'Даниил',
+    'Артёмович',
+    219,
+    1,
+    to_date('1-3-2001', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Лукьянов',
+    'Филипп',
+    'Владимирович',
+    191,
+    3,
+    to_date('9-4-2011', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Прокофьев',
+    'Тимофей',
+    'Максимович',
+    694,
+    6,
+    to_date('21-3-2002', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Винокурова',
+    'Анна',
+    'Марковна',
+    519,
+    5,
+    to_date('27-4-2004', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Королев',
+    'Максим',
+    'Александрович',
+    129,
+    3,
+    to_date('13-6-1993', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Селиванова',
+    'Екатерина',
+    'Дмитриевна',
+    517,
+    6,
+    to_date('25-5-1996', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Сидорова',
+    'Дарья',
+    'Егоровна',
+    719,
+    2,
+    to_date('14-8-1994', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Попов',
+    'Андрей',
+    'Миронович',
+    691,
+    1,
+    to_date('16-4-1979', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Воробьева',
+    'Алиса',
+    'Саввична',
+    690,
+    3,
+    to_date('12-7-1997', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Коровин',
+    'Константин',
+    'Егорович',
+    695,
+    5,
+    to_date('9-2-1996', 'DD-MM-YYYY')
+);
+INSERT INTO racers VALUES(
+    'Филатова',
+    'Анастасия',
+    'Артуровна',
+    602,
+    2,
+    to_date('13-6-2003', 'DD-MM-YYYY')
+);
+--1
+INSERT INTO cars VALUES(
+    345,
+    'McLaren',
+    'MP4-27',
+    891,
+    1.94,
+    to_date('11-6-2000', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    654,
+    'Mercedes',
+    'AMG W03',
+    706,
+    1.71,
+    to_date('2-6-2005', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    657,
+    'McLaren',
+    'MP4-27',
+    746,
+    3.37,
+    to_date('15-11-1997', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    455,
+    'Opel',
+    'F300',
+    705,
+    3.27,
+    to_date('3-9-2001', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    435,
+    'BMW',
+    'MARCH 792',
+    772,
+    1.91,
+    to_date('20-2-2016', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    271,
+    'Matra',
+    'MS5',
+    823,
+    1.49,
+    to_date('20-4-2000', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    236,
+    'Cooper',
+    'T81',
+    715,
+    3.31,
+    to_date('10-5-2006', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    692,
+    'Matra',
+    'MS5',
+    826,
+    3.66,
+    to_date('3-3-2008', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    792,
+    'Ferrari',
+    '312 T2B',
+    711,
+    1.54,
+    to_date('16-9-2016', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    703,
+    'Ferrari',
+    'SF90',
+    760,
+    1.98,
+    to_date('13-2-2004', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    892,
+    'BMW',
+    'F1 FW23',
+    779,
+    3.29,
+    to_date('10-11-2018', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    165,
+    'McLaren',
+    'MP4/13 M',
+    772,
+    1.12,
+    to_date('17-12-2009', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    12,
+    'BRM',
+    'P153',
+    794,
+    3.84,
+    to_date('15-1-2009', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    622,
+    'Ford',
+    'FW 08C',
+    703,
+    3.80,
+    to_date('16-5-2013', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    629,
+    'Ferrari',
+    'SF16-H',
+    783,
+    1.32,
+    to_date('10-8-2016', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    502,
+    'Ferrari',
+    '312B2',
+    827,
+    3.31,
+    to_date('14-8-2005', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    693,
+    'Ferrari',
+    'F2008',
+    775,
+    3.48,
+    to_date('9-12-2010', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    612,
+    'Ford',
+    'B194',
+    891,
+    1.45,
+    to_date('20-10-2003', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    615,
+    'Renault',
+    'STR12',
+    876,
+    2.20,
+    to_date('14-2-2014', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    219,
+    'Ford',
+    'B194',
+    768,
+    2.17,
+    to_date('18-12-1997', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    191,
+    'Ford',
+    'MRZ334',
+    833,
+    2.15,
+    to_date('5-4-2012', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    694,
+    'Renault',
+    'RG560',
+    862,
+    2.53,
+    to_date('20-12-1999', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    519,
+    'McLaren',
+    'AMG CH300',
+    823,
+    2.82,
+    to_date('5-7-2018', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    129,
+    'Ferrari',
+    'CBH FR200',
+    895,
+    2.68,
+    to_date('13-1-1997', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    517,
+    'McLaren',
+    'MP4-27',
+    794,
+    2.83,
+    to_date('22-10-1997', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    719,
+    'BMW',
+    'F1 FW23',
+    744,
+    2.86,
+    to_date('21-12-2018', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    691,
+    'Ferrari',
+    '312B2',
+    807,
+    1.25,
+    to_date('5-1-2014', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    690,
+    'Ford',
+    'GT 736',
+    792,
+    1.21,
+    to_date('1-8-2009', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    695,
+    'Ford',
+    'WT 150',
+    843,
+    2.11,
+    to_date('18-11-2012', 'DD-MM-YYYY')
+);
+INSERT INTO cars VALUES(
+    602,
+    'Renault',
+    'BBR-312',
+    892,
+    2.56,
+    to_date('13-6-2005', 'DD-MM-YYYY')
+);
+--2
+INSERT INTO sponsors VALUES(
+    345,
+    'Red Bull',
+    1.336,
+);
+INSERT INTO sponsors VALUES(
+    345,
+    'Puma',
+    1.433,
+);
+INSERT INTO sponsors VALUES(
+    345,
+    'Marlboro',
+    0.581,
+);
+INSERT INTO sponsors VALUES(
+    345,
+    'Mercedes-Benz',
+    0.308,
+);
+INSERT INTO sponsors VALUES(
+    345,
+    'Aigo',
+    1.955,
+);
+INSERT INTO sponsors VALUES(
+    654,
+    'Red Bull',
+    1.907,
+);
+INSERT INTO sponsors VALUES(
+    654,
+    'Mercedes-Benz',
+    1.583,
+);
+INSERT INTO sponsors VALUES(
+    654,
+    'RBS',
+    2.823,
+);
+INSERT INTO sponsors VALUES(
+    654,
+    'Pvaxx',
+    2.762,
+);
+INSERT INTO sponsors VALUES(
+    654,
+    'Lenovo',
+    0.358,
+);
+INSERT INTO sponsors VALUES(
+    654,
+    'Honda',
+    0.430,
+);
+INSERT INTO sponsors VALUES(
+    654,
+    'Petronas',
+    0.798,
+);
+INSERT INTO sponsors VALUES(
+    654,
+    'BMW Group',
+    0.155,
+);
+INSERT INTO sponsors VALUES(
+    654,
+    'Shell',
+    2.395,
+);
+INSERT INTO sponsors VALUES(
+    657,
+    'RBS',
+    2.193,
+);
+INSERT INTO sponsors VALUES(
+    657,
+    'Intel',
+    0.615,
+);
+INSERT INTO sponsors VALUES(
+    657,
+    'Renault',
+    0.081,
+);
+INSERT INTO sponsors VALUES(
+    657,
+    'Toyota',
+    1.202,
+);
+INSERT INTO sponsors VALUES(
+    657,
+    'Red Bull',
+    0.342,
+);
+INSERT INTO sponsors VALUES(
+    455,
+    'Vodafone',
+    1.865,
+);
+INSERT INTO sponsors VALUES(
+    455,
+    'Lenovo',
+    1.253,
+);
+INSERT INTO sponsors VALUES(
+    455,
+    'Shell',
+    1.387,
+);
+INSERT INTO sponsors VALUES(
+    455,
+    'Metro',
+    0.066,
+);
+INSERT INTO sponsors VALUES(
+    455,
+    'Marlboro',
+    2.891,
+);
+INSERT INTO sponsors VALUES(
+    455,
+    'BMW Group',
+    0.214,
+);
+INSERT INTO sponsors VALUES(
+    455,
+    'Petronas',
+    0.661,
+);
+INSERT INTO sponsors VALUES(
+    455,
+    'Santander',
+    1.314,
+);
+INSERT INTO sponsors VALUES(
+    455,
+    'Red Bull',
+    0.818,
+);
+INSERT INTO sponsors VALUES(
+    435,
+    'Toyota',
+    0.397,
+);
+INSERT INTO sponsors VALUES(
+    435,
+    'Marlboro',
+    0.882,
+);
+INSERT INTO sponsors VALUES(
+    435,
+    'Intel',
+    0.693,
+);
+INSERT INTO sponsors VALUES(
+    435,
+    'Panasonic',
+    2.434,
+);
+INSERT INTO sponsors VALUES(
+    271,
+    'Intel',
+    0.384,
+);
+INSERT INTO sponsors VALUES(
+    271,
+    'Red Bull',
+    2.424,
+);
+INSERT INTO sponsors VALUES(
+    271,
+    'Marlboro',
+    0.846,
+);
+INSERT INTO sponsors VALUES(
+    271,
+    'AlicePetrobras',
+    1.357,
+);
+INSERT INTO sponsors VALUES(
+    236,
+    'Red Bull',
+    2.999,
+);
+INSERT INTO sponsors VALUES(
+    236,
+    'Aigo',
+    1.979,
+);
+INSERT INTO sponsors VALUES(
+    236,
+    'Intel',
+    0.419,
+);
+INSERT INTO sponsors VALUES(
+    236,
+    'Puma',
+    0.207,
+);
+INSERT INTO sponsors VALUES(
+    236,
+    'Denso',
+    0.032,
+);
+INSERT INTO sponsors VALUES(
+    236,
+    'Shell',
+    0.629,
+);
+INSERT INTO sponsors VALUES(
+    236,
+    'ING',
+    0.897,
+);
+INSERT INTO sponsors VALUES(
+    236,
+    'BMW Group',
+    1.961,
+);
+INSERT INTO sponsors VALUES(
+    692,
+    'Santander',
+    1.192,
+);
+INSERT INTO sponsors VALUES(
+    692,
+    'Pvaxx',
+    0.220,
+);
+INSERT INTO sponsors VALUES(
+    692,
+    'ING',
+    1.973,
+);
+INSERT INTO sponsors VALUES(
+    692,
+    'RBS',
+    0.251,
+);
+INSERT INTO sponsors VALUES(
+    692,
+    'Shell',
+    0.637,
+);
+INSERT INTO sponsors VALUES(
+    692,
+    'Petronas',
+    0.772,
+);
+INSERT INTO sponsors VALUES(
+    692,
+    'Intel',
+    2.843,
+);
+INSERT INTO sponsors VALUES(
+    692,
+    'Honda',
+    1.222,
+);
+INSERT INTO sponsors VALUES(
+    692,
+    'Aigo',
+    2.605,
+);
+INSERT INTO sponsors VALUES(
+    692,
+    'Metro',
+    2.474,
+);
+INSERT INTO sponsors VALUES(
+    792,
+    'AlicePetrobras',
+    2.252,
+);
+INSERT INTO sponsors VALUES(
+    792,
+    'Metro',
+    2.029,
+);
+INSERT INTO sponsors VALUES(
+    792,
+    'Bridgestone',
+    2.917,
+);
+INSERT INTO sponsors VALUES(
+    703,
+    'Aigo',
+    2.003,
+);
+INSERT INTO sponsors VALUES(
+    703,
+    'Bridgestone',
+    2.744,
+);
+INSERT INTO sponsors VALUES(
+    703,
+    'Red Bull',
+    1.190,
+);
+INSERT INTO sponsors VALUES(
+    703,
+    'Marlboro',
+    2.126,
+);
+INSERT INTO sponsors VALUES(
+    703,
+    'Metro',
+    1.028,
+);
+INSERT INTO sponsors VALUES(
+    703,
+    'Lenovo',
+    0.101,
+);
+INSERT INTO sponsors VALUES(
+    703,
+    'Toyota',
+    2.531,
+);
+INSERT INTO sponsors VALUES(
+    703,
+    'Puma',
+    1.492,
+);
+INSERT INTO sponsors VALUES(
+    703,
+    'Renault',
+    2.018,
+);
+INSERT INTO sponsors VALUES(
+    703,
+    'Shell',
+    2.589,
+);
+INSERT INTO sponsors VALUES(
+    892,
+    'Bridgestone',
+    1.192,
+);
+INSERT INTO sponsors VALUES(
+    892,
+    'RBS',
+    2.116,
+);
+INSERT INTO sponsors VALUES(
+    165,
+    'Aigo',
+    0.758,
+);
+INSERT INTO sponsors VALUES(
+    165,
+    'Santander',
+    2.030,
+);
+INSERT INTO sponsors VALUES(
+    165,
+    'Intel',
+    0.699,
+);
+INSERT INTO sponsors VALUES(
+    165,
+    'Petronas',
+    2.402,
+);
+INSERT INTO sponsors VALUES(
+    165,
+    'Mercedes-Benz',
+    2.459,
+);
+INSERT INTO sponsors VALUES(
+    165,
+    'Vodafone',
+    2.331,
+);
+INSERT INTO sponsors VALUES(
+    165,
+    'Panasonic',
+    0.798,
+);
+INSERT INTO sponsors VALUES(
+    12,
+    'Red Bull',
+    1.642,
+);
+INSERT INTO sponsors VALUES(
+    12,
+    'Puma',
+    0.511,
+);
+INSERT INTO sponsors VALUES(
+    12,
+    'Intel',
+    1.029,
+);
+INSERT INTO sponsors VALUES(
+    12,
+    'Vodafone',
+    0.207,
+);
+INSERT INTO sponsors VALUES(
+    12,
+    'Honda',
+    1.877,
+);
+INSERT INTO sponsors VALUES(
+    12,
+    'AlicePetrobras',
+    1.605,
+);
+INSERT INTO sponsors VALUES(
+    12,
+    'Aigo',
+    1.082,
+);
+INSERT INTO sponsors VALUES(
+    622,
+    'Toyota',
+    2.675,
+);
+INSERT INTO sponsors VALUES(
+    622,
+    'Shell',
+    0.400,
+);
+INSERT INTO sponsors VALUES(
+    629,
+    'Bridgestone',
+    0.690,
+);
+INSERT INTO sponsors VALUES(
+    629,
+    'Marlboro',
+    0.018,
+);
+INSERT INTO sponsors VALUES(
+    629,
+    'Puma',
+    1.721,
+);
+INSERT INTO sponsors VALUES(
+    502,
+    'Bridgestone',
+    1.767,
+);
+INSERT INTO sponsors VALUES(
+    502,
+    'Red Bull',
+    0.783,
+);
+INSERT INTO sponsors VALUES(
+    502,
+    'Panasonic',
+    2.576,
+);
+INSERT INTO sponsors VALUES(
+    502,
+    'ING',
+    1.675,
+);
+INSERT INTO sponsors VALUES(
+    502,
+    'Intel',
+    0.235,
+);
+INSERT INTO sponsors VALUES(
+    502,
+    'Denso',
+    0.078,
+);
+INSERT INTO sponsors VALUES(
+    502,
+    'BMW Group',
+    0.276,
+);
+INSERT INTO sponsors VALUES(
+    693,
+    'Mercedes-Benz',
+    0.986,
+);
+INSERT INTO sponsors VALUES(
+    693,
+    'Santander',
+    2.999,
+);
+INSERT INTO sponsors VALUES(
+    612,
+    'Metro',
+    2.586,
+);
+INSERT INTO sponsors VALUES(
+    612,
+    'AlicePetrobras',
+    0.796,
+);
+INSERT INTO sponsors VALUES(
+    612,
+    'Bridgestone',
+    1.066,
+);
+INSERT INTO sponsors VALUES(
+    612,
+    'RBS',
+    0.849,
+);
+INSERT INTO sponsors VALUES(
+    612,
+    'Toyota',
+    2.935,
+);
+INSERT INTO sponsors VALUES(
+    612,
+    'Marlboro',
+    1.262,
+);
+INSERT INTO sponsors VALUES(
+    612,
+    'Red Bull',
+    0.584,
+);
+INSERT INTO sponsors VALUES(
+    612,
+    'Vodafone',
+    2.743,
+);
+INSERT INTO sponsors VALUES(
+    612,
+    'ING',
+    0.736,
+);
+INSERT INTO sponsors VALUES(
+    615,
+    'Puma',
+    2.259,
+);
+INSERT INTO sponsors VALUES(
+    615,
+    'Renault',
+    2.096,
+);
+INSERT INTO sponsors VALUES(
+    615,
+    'Red Bull',
+    0.723,
+);
+INSERT INTO sponsors VALUES(
+    615,
+    'Mercedes-Benz',
+    1.205,
+);
+INSERT INTO sponsors VALUES(
+    615,
+    'BMW Group',
+    0.922,
+);
+INSERT INTO sponsors VALUES(
+    219,
+    'Toyota',
+    1.011,
+);
+INSERT INTO sponsors VALUES(
+    219,
+    'AlicePetrobras',
+    2.428,
+);
+INSERT INTO sponsors VALUES(
+    219,
+    'Santander',
+    2.711,
+);
+INSERT INTO sponsors VALUES(
+    219,
+    'RBS',
+    2.625,
+);
+INSERT INTO sponsors VALUES(
+    191,
+    'BMW Group',
+    1.552,
+);
+INSERT INTO sponsors VALUES(
+    191,
+    'Vodafone',
+    0.149,
+);
+INSERT INTO sponsors VALUES(
+    191,
+    'Lenovo',
+    2.139,
+);
+INSERT INTO sponsors VALUES(
+    191,
+    'AlicePetrobras',
+    1.434,
+);
+INSERT INTO sponsors VALUES(
+    191,
+    'Honda',
+    2.419,
+);
+INSERT INTO sponsors VALUES(
+    694,
+    'Santander',
+    1.515,
+);
+INSERT INTO sponsors VALUES(
+    694,
+    'Panasonic',
+    1.449,
+);
+INSERT INTO sponsors VALUES(
+    694,
+    'BMW Group',
+    1.163,
+);
+INSERT INTO sponsors VALUES(
+    694,
+    'Red Bull',
+    1.831,
+);
+INSERT INTO sponsors VALUES(
+    694,
+    'AlicePetrobras',
+    0.482,
+);
+INSERT INTO sponsors VALUES(
+    694,
+    'Vodafone',
+    2.564,
+);
+INSERT INTO sponsors VALUES(
+    694,
+    'Marlboro',
+    2.128,
+);
+INSERT INTO sponsors VALUES(
+    694,
+    'Mercedes-Benz',
+    2.348,
+);
+INSERT INTO sponsors VALUES(
+    694,
+    'RBS',
+    0.893,
+);
+INSERT INTO sponsors VALUES(
+    694,
+    'ING',
+    0.888,
+);
+INSERT INTO sponsors VALUES(
+    519,
+    'Vodafone',
+    1.506,
+);
+INSERT INTO sponsors VALUES(
+    519,
+    'Lenovo',
+    0.662,
+);
+INSERT INTO sponsors VALUES(
+    519,
+    'Red Bull',
+    0.787,
+);
+INSERT INTO sponsors VALUES(
+    519,
+    'Denso',
+    0.854,
+);
+INSERT INTO sponsors VALUES(
+    519,
+    'Honda',
+    0.643,
+);
+INSERT INTO sponsors VALUES(
+    519,
+    'ING',
+    2.218,
+);
+INSERT INTO sponsors VALUES(
+    519,
+    'Toyota',
+    0.122,
+);
+INSERT INTO sponsors VALUES(
+    519,
+    'Renault',
+    0.308,
+);
+INSERT INTO sponsors VALUES(
+    129,
+    'ING',
+    2.192,
+);
+INSERT INTO sponsors VALUES(
+    129,
+    'Toyota',
+    2.778,
+);
+INSERT INTO sponsors VALUES(
+    129,
+    'Petronas',
+    1.430,
+);
+INSERT INTO sponsors VALUES(
+    129,
+    'Metro',
+    2.729,
+);
+INSERT INTO sponsors VALUES(
+    129,
+    'Marlboro',
+    1.280,
+);
+INSERT INTO sponsors VALUES(
+    129,
+    'Pvaxx',
+    1.047,
+);
+INSERT INTO sponsors VALUES(
+    129,
+    'Vodafone',
+    2.150,
+);
+INSERT INTO sponsors VALUES(
+    129,
+    'Santander',
+    1.955,
+);
+INSERT INTO sponsors VALUES(
+    129,
+    'RBS',
+    2.568,
+);
+INSERT INTO sponsors VALUES(
+    129,
+    'Red Bull',
+    1.204,
+);
+INSERT INTO sponsors VALUES(
+    517,
+    'Shell',
+    0.051,
+);
+INSERT INTO sponsors VALUES(
+    517,
+    'Toyota',
+    0.148,
+);
+INSERT INTO sponsors VALUES(
+    517,
+    'Lenovo',
+    1.822,
+);
+INSERT INTO sponsors VALUES(
+    517,
+    'Metro',
+    0.258,
+);
+INSERT INTO sponsors VALUES(
+    517,
+    'Petronas',
+    1.003,
+);
+INSERT INTO sponsors VALUES(
+    517,
+    'Santander',
+    2.640,
+);
+INSERT INTO sponsors VALUES(
+    719,
+    'ING',
+    1.344,
+);
+INSERT INTO sponsors VALUES(
+    719,
+    'Honda',
+    1.641,
+);
+INSERT INTO sponsors VALUES(
+    719,
+    'Puma',
+    0.007,
+);
+INSERT INTO sponsors VALUES(
+    719,
+    'Marlboro',
+    2.118,
+);
+INSERT INTO sponsors VALUES(
+    691,
+    'Red Bull',
+    0.485,
+);
+INSERT INTO sponsors VALUES(
+    691,
+    'Marlboro',
+    2.877,
+);
+INSERT INTO sponsors VALUES(
+    691,
+    'Aigo',
+    2.944,
+);
+INSERT INTO sponsors VALUES(
+    691,
+    'BMW Group',
+    0.759,
+);
+INSERT INTO sponsors VALUES(
+    691,
+    'Bridgestone',
+    0.874,
+);
+INSERT INTO sponsors VALUES(
+    691,
+    'AlicePetrobras',
+    0.623,
+);
+INSERT INTO sponsors VALUES(
+    690,
+    'Santander',
+    1.437,
+);
+INSERT INTO sponsors VALUES(
+    690,
+    'Bridgestone',
+    1.951,
+);
+INSERT INTO sponsors VALUES(
+    690,
+    'Lenovo',
+    0.302,
+);
+INSERT INTO sponsors VALUES(
+    690,
+    'BMW Group',
+    0.377,
+);
+INSERT INTO sponsors VALUES(
+    690,
+    'Toyota',
+    0.787,
+);
+INSERT INTO sponsors VALUES(
+    690,
+    'RBS',
+    1.271,
+);
+INSERT INTO sponsors VALUES(
+    690,
+    'Renault',
+    2.957,
+);
+INSERT INTO sponsors VALUES(
+    690,
+    'AlicePetrobras',
+    1.064,
+);
+INSERT INTO sponsors VALUES(
+    690,
+    'Red Bull',
+    1.567,
+);
+INSERT INTO sponsors VALUES(
+    695,
+    'Toyota',
+    1.049,
+);
+INSERT INTO sponsors VALUES(
+    695,
+    'Pvaxx',
+    1.449,
+);
+INSERT INTO sponsors VALUES(
+    695,
+    'Denso',
+    0.069,
+);
+INSERT INTO sponsors VALUES(
+    695,
+    'Petronas',
+    0.172,
+);
+INSERT INTO sponsors VALUES(
+    695,
+    'Aigo',
+    2.543,
+);
+INSERT INTO sponsors VALUES(
+    695,
+    'Red Bull',
+    0.965,
+);
+INSERT INTO sponsors VALUES(
+    602,
+    'Bridgestone',
+    2.263,
+);
+INSERT INTO sponsors VALUES(
+    602,
+    'Panasonic',
+    0.274,
+);
+INSERT INTO sponsors VALUES(
+    602,
+    'RBS',
+    1.564,
+);
+INSERT INTO sponsors VALUES(
+    602,
+    'Puma',
+    2.425,
+);
+INSERT INTO sponsors VALUES(
+    602,
+    'Red Bull',
+    2.725,
+);
+INSERT INTO sponsors VALUES(
+    602,
+    'Petronas',
+    1.944,
+);
+INSERT INTO sponsors VALUES(
+    602,
+    'Vodafone',
+    1.012,
+);

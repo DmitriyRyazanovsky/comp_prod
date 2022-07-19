@@ -1,0 +1,30 @@
+Loco Kings|820|to_date('3-7-2006', 'DD-MM-YYYY')|16
+Masked Bats|285|to_date('6-2-2015', 'DD-MM-YYYY')|17
+Calypso Rangers|510|to_date('17-4-2004', 'DD-MM-YYYY')|19
+Dynasty Wizards|272|to_date('1-2-2008', 'DD-MM-YYYY')|15
+Psychodelic Defenders|678|to_date('7-4-2010', 'DD-MM-YYYY')|12
+Hurricane Phenoms|305|to_date('4-10-1997', 'DD-MM-YYYY')|13
+Ice Cold Musketeers|648|to_date('5-3-2006', 'DD-MM-YYYY')|17
+Clever Bombers|835|to_date('13-10-2016', 'DD-MM-YYYY')|20
+Excellent Roos|309|to_date('8-9-2017', 'DD-MM-YYYY')|11
+All Camels|515|to_date('14-8-2008', 'DD-MM-YYYY')|19
+Mean Top Dogs|816|to_date('20-10-1998', 'DD-MM-YYYY')|12
+Ancient Force|937|to_date('9-12-2011', 'DD-MM-YYYY')|16
+Psychodelic Dutchmen|668|to_date('18-11-2010', 'DD-MM-YYYY')|13
+Striped Kings|174|to_date('14-8-2017', 'DD-MM-YYYY')|14
+Renowned Watchmen|989|to_date('8-10-2003', 'DD-MM-YYYY')|20
+Supreme Skywalkers|494|to_date('1-10-2003', 'DD-MM-YYYY')|11
+Serious Lords|687|to_date('15-6-2018', 'DD-MM-YYYY')|14
+Striped Commanders|852|to_date('16-2-2014', 'DD-MM-YYYY')|14
+Fiery Brewers|399|to_date('17-6-2008', 'DD-MM-YYYY')|12
+Dynasty Stars|206|to_date('19-1-2004', 'DD-MM-YYYY')|19
+Clever Doves|160|to_date('19-1-1999', 'DD-MM-YYYY')|15
+Atlantic Wreckers|536|to_date('11-8-2002', 'DD-MM-YYYY')|18
+The Fat Flames|203|to_date('24-1-2015', 'DD-MM-YYYY')|17
+Atlantic Jazz|497|to_date('25-4-2005', 'DD-MM-YYYY')|16
+Drunk Squires|147|to_date('9-3-2018', 'DD-MM-YYYY')|19
+Regal Mafia|990|to_date('8-5-2010', 'DD-MM-YYYY')|12
+Hustlin Ravens|717|to_date('11-7-2007', 'DD-MM-YYYY')|10
+Brute Raiders|444|to_date('16-6-2000', 'DD-MM-YYYY')|17
+Odd Elephants|774|to_date('8-1-2006', 'DD-MM-YYYY')|11
+Hellish Mafia|233|to_date('5-1-2015', 'DD-MM-YYYY')|20

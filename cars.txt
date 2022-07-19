@@ -1,0 +1,31 @@
+фирма|модель|мощность|разгон до 100км_ч|год выпуска|
+McLaren|MP4-27|
+Mercedes|AMG W03|
+McLaren|MP4-27|
+Opel|F300|
+BMW|MARCH 792|
+Matra|MS5|
+Cooper|T81|
+Matra|MS5|
+Ferrari|312 T2B|
+Ferrari|SF90|
+BMW|F1 FW23|
+McLaren|MP4/13 M|
+BRM|P153|
+Ford|FW 08C|
+Ferrari|SF16-H|
+Ferrari|312B2|
+Ferrari|F2008|
+Ford|B194|
+Renault|STR12|
+Ford|B194|
+Ford|MRZ334|
+Renault|RG560|
+McLaren|AMG CH300|
+Ferrari|CBH FR200|
+McLaren|MP4-27|
+BMW|F1 FW23|
+Ferrari|312B2|
+Ford|GT 736|
+Ford|WT 150|
+Renault|BBR-312|

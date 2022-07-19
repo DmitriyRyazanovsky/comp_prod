@@ -1,0 +1,196 @@
+820|'Aigo'|1.577
+820|'Metro'|1.778
+820|'Lenovo'|1.631
+820|'Toyota'|1.566
+820|'RBS'|1.803
+820|'Shell'|0.672
+820|'Red Bull'|2.342
+820|'Denso'|2.966
+285|'Renault'|2.464
+285|'Shell'|1.611
+285|'Aigo'|1.516
+285|'BMW Group'|2.837
+510|'Panasonic'|1.753
+510|'Shell'|0.186
+510|'Marlboro'|0.664
+510|'Bridgestone'|0.703
+510|'Pvaxx'|1.799
+510|'ING'|0.272
+510|'Intel'|1.052
+510|'AlicePetrobras'|1.539
+510|'Honda'|2.794
+272|'BMW Group'|0.836
+272|'AlicePetrobras'|0.457
+272|'Puma'|2.303
+678|'Honda'|1.843
+678|'Bridgestone'|1.706
+678|'Panasonic'|1.494
+678|'BMW Group'|0.203
+678|'Puma'|1.340
+678|'Metro'|0.749
+678|'Toyota'|1.339
+678|'Santander'|1.671
+305|'Metro'|0.444
+305|'Renault'|0.221
+305|'Pvaxx'|0.285
+305|'Aigo'|0.525
+305|'AlicePetrobras'|0.776
+648|'Denso'|0.869
+648|'AlicePetrobras'|1.922
+648|'Puma'|2.825
+648|'Petronas'|2.254
+648|'Renault'|0.246
+648|'Red Bull'|0.586
+835|'Bridgestone'|1.206
+835|'Metro'|2.876
+835|'Santander'|1.063
+835|'Toyota'|0.586
+835|'Renault'|0.366
+835|'Marlboro'|2.797
+835|'ING'|2.718
+835|'RBS'|1.152
+309|'Marlboro'|1.247
+309|'Bridgestone'|0.549
+309|'Vodafone'|0.346
+515|'Aigo'|0.382
+515|'RBS'|2.213
+515|'Shell'|2.077
+515|'Marlboro'|2.119
+515|'Bridgestone'|0.719
+515|'Lenovo'|0.911
+515|'ING'|0.520
+515|'Santander'|2.506
+515|'Panasonic'|1.967
+515|'Red Bull'|2.032
+816|'Intel'|1.124
+816|'Panasonic'|0.609
+816|'Puma'|0.120
+816|'Vodafone'|1.002
+937|'Red Bull'|2.325
+937|'Pvaxx'|0.848
+937|'Puma'|2.284
+937|'Metro'|0.153
+937|'RBS'|1.842
+937|'Bridgestone'|1.817
+937|'Santander'|0.936
+937|'Marlboro'|0.971
+937|'Panasonic'|0.523
+668|'Mercedes-Benz'|0.686
+668|'Santander'|0.808
+668|'Vodafone'|2.401
+174|'Puma'|1.124
+174|'RBS'|1.017
+174|'Honda'|1.661
+174|'Aigo'|1.029
+174|'Petronas'|0.358
+174|'Metro'|2.388
+174|'Toyota'|2.516
+174|'Shell'|2.478
+174|'Vodafone'|1.720
+989|'Santander'|1.797
+989|'Metro'|0.578
+494|'Red Bull'|2.706
+494|'Petronas'|0.739
+494|'Lenovo'|0.143
+494|'Panasonic'|0.395
+687|'Metro'|0.440
+687|'BMW Group'|1.387
+687|'Vodafone'|2.503
+687|'Pvaxx'|2.780
+687|'RBS'|1.865
+687|'AlicePetrobras'|1.194
+687|'Bridgestone'|1.381
+852|'Puma'|2.432
+852|'Petronas'|1.154
+852|'Red Bull'|1.449
+852|'Mercedes-Benz'|1.322
+852|'Denso'|0.696
+852|'Marlboro'|0.140
+852|'ING'|0.684
+852|'Honda'|2.437
+852|'Shell'|1.534
+399|'Shell'|0.620
+399|'Metro'|1.885
+399|'Vodafone'|0.226
+399|'Renault'|2.247
+399|'Intel'|1.248
+399|'Santander'|2.424
+399|'Red Bull'|1.363
+399|'Aigo'|2.267
+206|'Bridgestone'|2.875
+206|'Red Bull'|0.135
+206|'Marlboro'|0.336
+206|'Toyota'|2.713
+206|'Metro'|1.508
+206|'Puma'|2.048
+206|'Honda'|1.476
+206|'Denso'|2.650
+206|'Mercedes-Benz'|0.476
+160|'Red Bull'|2.998
+160|'Intel'|0.263
+160|'Shell'|0.412
+160|'Vodafone'|2.360
+160|'Puma'|1.334
+160|'Renault'|2.840
+536|'Red Bull'|2.196
+536|'Honda'|1.380
+536|'Toyota'|2.747
+536|'ING'|1.807
+536|'Intel'|2.004
+536|'Vodafone'|1.863
+203|'Vodafone'|1.898
+203|'Puma'|1.691
+203|'Petronas'|2.268
+203|'Lenovo'|0.123
+203|'Shell'|0.162
+497|'Lenovo'|2.909
+497|'Shell'|0.760
+497|'Denso'|1.089
+497|'Honda'|2.138
+497|'AlicePetrobras'|2.272
+497|'Puma'|2.304
+497|'Renault'|2.349
+497|'Red Bull'|1.488
+497|'Intel'|2.338
+497|'Vodafone'|2.582
+147|'Marlboro'|2.121
+147|'Red Bull'|1.472
+147|'BMW Group'|1.910
+147|'ING'|1.228
+147|'AlicePetrobras'|1.925
+147|'Vodafone'|2.954
+147|'Puma'|0.173
+990|'Lenovo'|1.722
+990|'ING'|2.338
+990|'Honda'|1.646
+990|'Vodafone'|1.365
+990|'Santander'|0.138
+717|'Bridgestone'|1.053
+717|'RBS'|0.624
+717|'Denso'|2.920
+717|'ING'|0.850
+717|'Santander'|1.483
+717|'Intel'|0.965
+717|'BMW Group'|1.349
+444|'BMW Group'|1.991
+444|'Toyota'|1.006
+444|'Aigo'|0.939
+444|'Shell'|1.942
+444|'Puma'|1.107
+444|'Panasonic'|1.867
+774|'Toyota'|2.721
+774|'RBS'|1.177
+774|'Renault'|2.163
+774|'Denso'|1.474
+774|'Lenovo'|2.759
+774|'Vodafone'|0.006
+774|'Mercedes-Benz'|2.084
+233|'Denso'|1.418
+233|'Mercedes-Benz'|2.724
+233|'Lenovo'|2.875
+233|'Petronas'|1.651
+233|'ING'|2.946
+233|'Bridgestone'|2.755
+233|'AlicePetrobras'|1.319
+233|'Pvaxx'|0.443
+233|'BMW Group'|0.726

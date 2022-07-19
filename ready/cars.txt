@@ -1,0 +1,30 @@
+345|'McLaren'|'MP4-27'|to_date('24-9-2015', 'DD-MM-YYYY')|746|3.23|374
+654|'Mercedes'|'AMG W03'|to_date('20-7-1999', 'DD-MM-YYYY')|779|2.95|291
+657|'McLaren'|'MP4-27'|to_date('8-4-2003', 'DD-MM-YYYY')|741|2.80|347
+455|'Opel'|'F300'|to_date('23-9-2009', 'DD-MM-YYYY')|706|2.59|327
+435|'BMW'|'MARCH 792'|to_date('20-5-2014', 'DD-MM-YYYY')|893|3.74|333
+271|'Matra'|'MS5'|to_date('18-1-2000', 'DD-MM-YYYY')|856|3.44|315
+236|'Cooper'|'T81'|to_date('15-7-2011', 'DD-MM-YYYY')|795|1.70|279
+692|'Matra'|'MS5'|to_date('18-4-1998', 'DD-MM-YYYY')|760|1.64|327
+792|'Ferrari'|'312 T2B'|to_date('18-10-2000', 'DD-MM-YYYY')|726|1.04|282
+703|'Ferrari'|'SF90'|to_date('22-3-2018', 'DD-MM-YYYY')|824|3.57|332
+892|'BMW'|'F1 FW23'|to_date('24-6-2000', 'DD-MM-YYYY')|780|1.92|398
+165|'McLaren'|'MP4/13 M'|to_date('15-12-2010', 'DD-MM-YYYY')|812|1.62|298
+123|'BRM'|'P153'|to_date('15-6-2000', 'DD-MM-YYYY')|833|2.68|348
+622|'Ford'|'FW 08C'|to_date('22-11-1998', 'DD-MM-YYYY')|719|1.14|394
+629|'Ferrari'|'SF16-H'|to_date('10-4-2012', 'DD-MM-YYYY')|834|1.99|277
+502|'Ferrari'|'312B2'|to_date('10-3-2017', 'DD-MM-YYYY')|854|3.95|302
+693|'Ferrari'|'F2008'|to_date('16-10-2006', 'DD-MM-YYYY')|797|3.26|302
+612|'Ford'|'B194'|to_date('11-6-2001', 'DD-MM-YYYY')|845|1.72|302
+615|'Renault'|'STR12'|to_date('9-1-2000', 'DD-MM-YYYY')|761|1.92|296
+219|'Ford'|'B194'|to_date('18-3-2003', 'DD-MM-YYYY')|807|3.70|316
+191|'Ford'|'MRZ334'|to_date('11-11-2011', 'DD-MM-YYYY')|861|1.76|287
+694|'Renault'|'RG560'|to_date('25-12-2005', 'DD-MM-YYYY')|788|2.90|388
+519|'McLaren'|'AMG CH300'|to_date('20-6-2001', 'DD-MM-YYYY')|878|1.84|328
+129|'Ferrari'|'CBH FR200'|to_date('24-8-2003', 'DD-MM-YYYY')|878|1.07|347
+517|'McLaren'|'MP4-27'|to_date('20-12-2000', 'DD-MM-YYYY')|898|3.33|308
+719|'BMW'|'F1 FW23'|to_date('1-7-1998', 'DD-MM-YYYY')|775|2.29|362
+691|'Ferrari'|'312B2'|to_date('23-7-2008', 'DD-MM-YYYY')|745|2.16|370
+690|'Ford'|'GT 736'|to_date('19-9-2012', 'DD-MM-YYYY')|870|1.73|328
+695|'Ford'|'WT 150'|to_date('23-9-1997', 'DD-MM-YYYY')|707|2.59|377
+602|'Renault'|'BBR-312'|to_date('25-9-1998', 'DD-MM-YYYY')|822|2.55|315
